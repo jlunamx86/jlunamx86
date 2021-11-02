@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlunamx86
 - 👀 I’m interested in Data Science, Big Data, Analytics and programming in general.
 - 🌱 I’m currently learning Statistics and Machine Learning.
-- 💞️ I’m looking to collaborate on BI and DS projects.
+- 💞️ I’m looking to collaborate on BI and DS projects as a freelancer or free of charge for NGO's.
 - 📫 How to reach me: jorge.luna.itc@gmail.com
 
 <!---
